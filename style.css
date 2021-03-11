@@ -1,0 +1,101 @@
+h2{
+    font-size: 25px;
+    font-family: tahoma;
+}
+h1{
+    font-size: 38px;
+    color: #ec4c7a;
+    font-family: tahoma;
+}
+p{
+   color: gray;
+   font-family: tahoma;
+   margin-bottom: 35px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 670px;
+    padding: 80px;
+}
+.margin-top{
+    margin-top: 140px;
+}
+.introduction{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color:#ec4b75;
+    padding:7px 17px;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    width: 100%;  
+}
+ .work-images img{
+    width:33%;
+    float: left;
+}
+.work-area{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 1000px;
+}
+h3 {
+	text-align: center;
+	margin-bottom: 25px;
+	padding-bottom: 25px;
+	font-size: 33px;
+    
+}
+footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 600px;
+    padding: 50px 260px;
+
+    
+}
+h4{
+    font-size: 30px;
+    padding-bottom: 20px;
+
+}
+span{
+    font-size: 20px;
+    color: black;
+}
+.founder{
+    font-size: 18px;
+}
+ .message {
+    background-color: #ec4f90;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 85px;
+}
+
+.message p{
+    color: white;
+}
+.email{
+    font-size: 30px;
+}
+.copyright{
+    font-size: 13px;
+    margin-top: 110px;
+}
